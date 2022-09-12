@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class reload : MonoBehaviour
+public class brick : MonoBehaviour
 {
-
-    
-
+  
 }
